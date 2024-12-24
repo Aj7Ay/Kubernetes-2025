@@ -155,7 +155,7 @@ if __name__ == "__main__":
 
 ```
 
-*** RUN SCRIP ***
+** RUN SCRIPT **
 
 ```
 python your_script_name.py
