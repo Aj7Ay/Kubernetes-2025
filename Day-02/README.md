@@ -5,7 +5,9 @@ Blog :
 Discord :
 
 Install required Dependencies 
-
+```
+pip install requests python-pptx
+```
 
 Code
 
@@ -111,4 +113,9 @@ def create_kubernetes_presentation():
 
 if __name__ == "__main__":
     create_kubernetes_presentation()
+```
+
+Run Script 
+```
+python your_script_name.py
 ```
