@@ -1,8 +1,9 @@
 **Day02**
+<div align="center"> <img src="https://raw.githubusercontent.com/Aj7Ay/Kubernetes-2025/main/Day-02/k8s2-yt-v2.png"> </div>
 
-Blog :
+Blog : https://mrcloudbook.com/kubernetes-learning-journey-day-02/
 
-Discord :
+Discord : https://discord.gg/TH3ac5rq
 
 Install required Dependencies 
 ```
