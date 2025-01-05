@@ -1,0 +1,4 @@
+- Follow the steps and Setup Kubeadm/ Kubernetes Cluster Setup use blog : https://mrcloudbook.com/ultimate-guide-setting-up-a-kubernetes-cluster-with-master-and-worker-nodes-on-ubuntu-24-04-for-optimal-performance/
+- Try to run a single pod with simple nginx image
+- Share output in discord Tasks Channel 
+- discord link : https://discord.gg/TH3ac5rq
