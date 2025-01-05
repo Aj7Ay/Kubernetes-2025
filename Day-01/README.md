@@ -1,6 +1,7 @@
 **Blog** : [https://mrcloudbook.com](https://mrcloudbook.com/kubernetes-day-01-cka-2025/)
 
 **DAY 01**
+<div align="center"> <img src="https://raw.githubusercontent.com/Aj7Ay/Kubernetes-2025/main/Day-01/Day%20-1-yt.png"> </div>
 
 **Install Required Packages**
 
